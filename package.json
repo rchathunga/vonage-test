@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vonage/server-sdk": "^2.10.11"
+    "@vonage/server-sdk": "^2.10.11",
+    "semgrep": "^0.0.1"
   }
 }
